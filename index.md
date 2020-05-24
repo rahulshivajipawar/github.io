@@ -6,7 +6,7 @@ I am a research scientist at Motorola Solutions. I work on problems in speech an
 
 ### Publications
 
-1. Audio Diarization for LENA data and its application to computing language behavior statistics for individuals with autism, Ph.D Thesis, 2019.
+1. Audio Diarization for LENA data and its application to computing language behavior statistics for individuals with autism, Ph.D Thesis, Georgia Institute of Technology, 2019.
 
 2. Rebecca M. Jones and Daniela Plesa Skwerer, Rahul Pawar, Amarelle Hamo, Caroline Carberry, Eliana Ajodan,
 Desmond Caulley, Melanie Silverman , Shannon McAdoo, Steven Meyer, Anne Yoder , Mark Clements, Catherine
