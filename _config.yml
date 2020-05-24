@@ -1,0 +1,25 @@
+# Permalinks
+permalink: pretty
+
+# Setup
+host: localhost
+title: Rahul Shivaji Pawar
+url: rahulshivajipawar.github.io
+
+author:
+    name: Rahul Shivaji Pawar
+    email: rahulshivajipawar@gmail.com
+
+future: true
+permalink: "/:title/"
+
+#pages_list:
+ 
+#   Research: '/research'
+#   Publications: '/publications'
+#   Teaching: '/teaching'
+
+markdown: kramdown
+
+gems:
+    - jekyll-seo-tag
