@@ -1,8 +1,9 @@
 # Permalinks
-#permalink: pretty
+permalink: pretty
 
 # Setup
 host: localhost
+title: Rahul Shivaji Pawar
 url: rahulshivajipawar.github.io
 
 author:
@@ -10,9 +11,12 @@ author:
     email: rahulshivajipawar@gmail.com
 
 future: true
-#permalink: "/:title/"
+permalink: "/:title/"
 
-
+pages_list:
+ 
+   Publications: '/publications'
+   
 
 markdown: kramdown
 
