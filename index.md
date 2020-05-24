@@ -1,4 +1,4 @@
-## Rahul Shivaji Pawar 				
+## Rahul Shivaji Pawar 		                          [Publications](Publications.md)		
 
 <img src="assets/rahul_image.jpg" width="350">
 
