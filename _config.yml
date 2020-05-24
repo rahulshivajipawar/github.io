@@ -1,4 +1,5 @@
 # Permalinks
+permalink: pretty
 
 # Setup
 host: localhost
@@ -10,7 +11,7 @@ author:
     email: rahulshivajipawar@gmail.com
 
 future: true
-#permalink: "/:title/"
+permalink: "/:title/"
 
 
 
