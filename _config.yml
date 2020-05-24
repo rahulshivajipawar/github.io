@@ -13,11 +13,11 @@ author:
 future: true
 permalink: "/:title/"
 
-#pages_list:
+pages_list:
  
-#   Research: '/research'
-#   Publications: '/publications'
-#   Teaching: '/teaching'
+   CV: '/research'
+   Publications: '/publications'
+   
 
 markdown: kramdown
 
