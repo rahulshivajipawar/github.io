@@ -1,7 +1,9 @@
-### Rahul Shivaji Pawar	
+## Rahul Shivaji Pawar	
 <img src="assets/rahul_image.jpg" width="350">
 
 I am a research scientist at Motorola Solutions. I currently work on problems in speech and audio processing. I am also interested in other areas of machine learning like NLP, generative modeling, and ML theory.
+
+### Publications
 
 1. Audio Diarization for LENA data and its application to computing language behavior statistics for individuals with autism, Ph.D Thesis, 2019.
 
