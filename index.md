@@ -1,5 +1,5 @@
 ## Rahul Shivaji Pawar	
-<img src="assets/rahul_image.jpg" width="350">
+<img src="assets/IMG_8210.png" width="350">
 
 I am currently working on building a subtitling product at [banva.io](https://banva.io).
 
