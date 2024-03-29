@@ -11,7 +11,7 @@ author:
     email: rahulshivajipawar@gmail.com
 
 future: true
-permalink: "/:title/"
+permalink: ""
 
 
    
